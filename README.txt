@@ -21,7 +21,11 @@ The Workflow can be found in "Descriptions.pdf" for the rest of the main project
 to the inventory, in order to get an accurate representation of what is being deleted, the use must select the barcode they wish to delete and type in the textbox next to
 "Barcode:" the barcode they wish to delete. Add and save function the same but the user must fill out all tables in order to insert an item. Note, you will not be able to
 view any of these changes until the program is exited started once again. We are working on getting these issues resolved. Also there is no functionality to the Help and
-Options button as we each individually spent too long on other portions of the project that were buggy.
+Options button as we each individually spent too long on other portions of the project that were buggy. You must also know the barcode of the item you want to search,
+otherwise you will not get anything. Just be sure to exit the program and restart to refresh the list and you can view the barcode in the "Inventory."
+
+In the future we hope to have all of these problems fleshed out and add a more functionality like a unique graphical interface for separate companies, end of day/month/year
+ reports, and other changes to make the system more simple.
 
 Our commit history is terrible as we both know, but the reason is because of the source changes listed above. it is a simple copy and paste but we would have had to
 constantly change sources as our repos were slightly different. The slightest difference means we lose connection completely and we would have a constant battle between the
